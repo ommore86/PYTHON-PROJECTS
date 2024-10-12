@@ -1,0 +1,23 @@
+USER_THEMES = {
+    "atm_theme": {
+        "type": "light",
+        "colors": {
+            "primary": "#ffac00",
+            "secondary": "#ff8000",
+            "success": "#80a01b",
+            "info": "#24aa7e",
+            "warning": "#da6b65",
+            "danger": "#f51818",
+            "light": "#F8F9FA",
+            "dark": "#343A40",
+            "bg": "#000000",
+            "fg": "#ffffff",
+            "selectbg": "#adb5bd",
+            "selectfg": "#ffffff",
+            "border": "#bfbfbf",
+            "inputfg": "#343a40",
+            "inputbg": "#fff",
+            "active": "#e5e5e5"
+        }
+    }
+}
